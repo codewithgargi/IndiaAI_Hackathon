@@ -8,13 +8,9 @@ An advanced AI-powered platform for predicting mineral potential using machine l
 **Features**
 
 Data Preparation: Scripts to clean and prepare geospatial and tabular datasets.
-
 Feature Engineering: Create meaningful features from raw data for modeling.
-
 Modeling: Trained using Random Forest; the best model is saved as a .pkl file.
-
 Visualization: Feature importance visualizations and predictions.
-
 App: A simple app interface to run predictions on new data.
 
 **Project Structure**
@@ -48,8 +44,7 @@ Generate features with feature_engineering.py.
 Train or load model and predict with main.py or predict_potential.py.
 Use mineral_targeting_app.py for app interface (if applicable).
 
-**Authors
-
+**Author
 Team Leader and Solo Contributor:** Gargi Gupta
 
 **License**
