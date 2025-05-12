@@ -15,7 +15,7 @@ App: A simple app interface to run predictions on new data.
 
 **Project Structure**
 
-hackathon/\n
+hackathon/
 ├── analyze_features.py
 ├── best_mineral_potential_model.pkl
 ├── data_preparation.py
