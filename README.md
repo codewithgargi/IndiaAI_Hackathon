@@ -44,8 +44,7 @@ Generate features with feature_engineering.py.
 Train or load model and predict with main.py or predict_potential.py.
 Use mineral_targeting_app.py for app interface (if applicable).
 
-**Author
-Team Leader and Solo Contributor:** Gargi Gupta
+**Team Leader and Solo Contributor:** Gargi Gupta
 
 **License**
 
