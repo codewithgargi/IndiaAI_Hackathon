@@ -1,10 +1,11 @@
-**Mineral Potential Targeting** - Hackathon Project
+**AI for Mineral Targeting 
+IndiaAI Hackathon Project: Intelligent Mineral Exploration Platform**
 
 **Overview**
 
-This project focuses on predicting areas with high mineral potential using machine learning techniques. It was developed during a hackathon and includes data processing, feature engineering, model training, and visualization components.
+An advanced AI-powered platform for predicting mineral potential using machine learning and geospatial analysis. This project aims to revolutionize mineral exploration by providing data-driven insights to help geologists and mining companies identify promising exploration targets more efficiently.
 
-Features
+**Features**
 
 Data Preparation: Scripts to clean and prepare geospatial and tabular datasets.
 
@@ -16,7 +17,7 @@ Visualization: Feature importance visualizations and predictions.
 
 App: A simple app interface to run predictions on new data.
 
-Project Structure
+**Project Structure**
 
 hackathon/
 ├── analyze_features.py
@@ -30,35 +31,27 @@ hackathon/
 ├── RandomForest_feature_importance.png
 ├── RandomForest_permutation_importance.png
 
-Requirements
+**Requirements**
 
 Python 3.8+
-
 pandas
-
 geopandas
-
 scikit-learn
-
 matplotlib
-
 joblib
 
 
-Running the Project
+**Running the Project**
 
 Prepare data using data_preparation.py.
-
 Generate features with feature_engineering.py.
-
 Train or load model and predict with main.py or predict_potential.py.
-
 Use mineral_targeting_app.py for app interface (if applicable).
 
-Authors
+**Authors
 
-Team Leader and Solo Contributor: Gargi Gupta
+Team Leader and Solo Contributor:** Gargi Gupta
 
-License
+**License**
 
 This project is open source and available under the MIT License.
