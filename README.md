@@ -1,6 +1,6 @@
-Mineral Potential Targeting - Hackathon Project
+**Mineral Potential Targeting** - Hackathon Project
 
-Overview
+**Overview**
 
 This project focuses on predicting areas with high mineral potential using machine learning techniques. It was developed during a hackathon and includes data processing, feature engineering, model training, and visualization components.
 
